@@ -6,7 +6,7 @@ This year's event will occur after the meeting on June 23, from 9 am to 5 pm at 
 
 ## The Meeting
 
-This year's theme is "Creating sustainable careers." We will have two sessions, morning and afternoon. The morning session will focus on computation. First, have a panel discussing how researchers can build a sustainable career that includes computation and software development. For example, for early career computational evolutionary biologists, how can you ensure that you receive credit commensurate with your efforts? For lab heads and PIs, how can you support and mentor your personnel to help them achieve their goals when their research includes software work?
+This year's theme is "Creating sustainable careers." We will have two sessions, morning and afternoon. The morning session look broadly at sustainable software development in biology departments. First, we will have a panel discussing how researchers can build an evolutionary biology career that includes computation and software development. For example, for early career computational evolutionary biologists, how can you ensure that you receive credit commensurate with your efforts? For lab heads and PIs, how can you support and mentor your personnel to help them achieve their goals when their research includes software work?
 
 Following this, we will have a discussion of creating manageable software workflows for large and distributed teams. Topics may include continuous integration testing of software, team communication, and onboarding of personnel into the development workflow.
 
