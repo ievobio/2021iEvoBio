@@ -1,27 +1,7 @@
 # Tentative PM Schedule
 
-Afternoon session - "Career development for computational biologists: Identifying challenges in delivering computational education"
+Afternoon Session 1 - "Inclusive pedagogy for the computational evolutionary biologist." What is inclusive pedagogy? How can educators leverage active learning to increase Breanna Harris and April Wright will present some lessons learned from their classrooms, and from writing their recent manuscript "[From Panic to Pedagogy: Using online active learning to promote inclusive instruction in ecology and evolutionary biology courses.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6915)"
 
-1:15-2:45: Plenary talks - 12 minutes + questions. Contributed talks from the community.
+Afternoon Session 2 -  "Coding to learn, not learning to code." In this session, we will discuss scaffolding computation into courses that aren't inherently computational themselves. For example, using R to process camera trap data in a mammalogy course, or using population genetic simulations in evolution. What are the major challenges to doing this? Is domain knowledge lost? **Interested parties are welcome to enter their course to be showcased during this session. A showcase will be a 5-minute discussion of what you're doing in your class to code-to-learn. If interested, please open an issue here*
 
-1. What are you teaching in computational biology? 
-2. Who is your audience?
-3. How do you deliver content? (i.e., virtual boxes, JupyterHub, Raspberry Pi)
-4. What is going well?
-5. What is going poorly?
-6. What would you like to have feedback on? 
-
-
-3:00 - 4:15: Birds of a feather. Split up into groups and identify what is going well in terms of computational biology education. Who would you recommend your syllabus to? Who would you recommend your course content delivery mechanism? 
-
-Our Birds of a feather sessions will be captained by folks who have expertise delivering course content in different settings, to different audiences, and using different technologies. They are:
-
-- [Cathy Newman](https://www.catherinenewman.org/) - University of Louisiana Monroe, Biology Program
-- [Jamie Oaks](http://phyletica.org/) - Auburn University, Department of Biological Sciences and Museum of Natural History
-- [Brian O'Meara](https://www.brianomeara.info/) - University of Tennessee, Knoxville, Ecology and Evolutionary Biology
-- [Rachel Schwartz](https://schwartzlaburi.github.io/) - University of Rhode Island, Biological Sciences
-- [April Wright](http://paleantology.com/) - Southeastern Louisiana University, Department of Biological Sciences
-
-4:15-5: Share results of BoF with the large group. Discuss as a large group what major challenges still remain for teaching computation to evolutionary biologists.
-
-
+Afternoon mixer: Course-based breakouts. We'll form breakouts to discuss topics from the afternoon sessions.

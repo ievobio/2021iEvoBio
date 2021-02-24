@@ -1,5 +1,16 @@
 # Tentative AM Schedule
 
-First Morning session - "Self-Advocacy for Software Folks:" A look at how people who develop code can avoid the second author trap and successfully advocate for themselves and their personnel. What does a good collaboration that rewards both empirical and software work look like? What advice would you give to a grad student or postdoc balancing software development with biology? 
+First morning session: "Sustainable scientific software development for large and distributed teams:" How can developers set up workflows to keep software standards high, but without devoting 100% of their time to development? Speakers will describe their teams, how new developers are onboarded, and how credit is laid out appropriately at publication.
 
-Second morning session: "Sustainable scientific software development for large and distributed teams:" How can developers set up workflows to keep software standards high, but without devoting 100% of their time to development. Joëlle Barido-Sottani will present a case study from the development team at RevBayes.
+Speakers:
+  + [Joëlle Barido-Sottani,](https://www.eeob.iastate.edu/people/joelle-barido-sottani) ([RevBayes](revbayes.github.io/))
+  + [Jerome Kelleher,](http://jeromekelleher.net/) [stdpopsim](https://stdpopsim.readthedocs.io/en/latest/)
+  + [Jon Chang,](https://jonathanchang.org/) [Homebrew Project maintainer](https://brew.sh/)
+  + [Tim Vaughn,](https://bsse.ethz.ch/department/people/detail-person.MjM5MzU5.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html) [BEAST2](http://www.beast2.org/)
+  + [Stephanie Spielman,](https://spielmanlab.github.io/) assorted projects at the evolution-clincal 'omics interface
+
+
+This will be followed by a mixer and discussion breakout
+
+Second morning session: "Mentoring diverse labs." What do PIs need to know when they'll be supervising both
+wet and dry lab personnel? How can they meet the challenges of supporting both career types and keeping different projects moving at different paces?
