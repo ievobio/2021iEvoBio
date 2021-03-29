@@ -1,29 +1,10 @@
-**If you are submitting a piece of software for the Software Bazaar during the poster session,**
-June 23, please open an issue with the following information:
+**If you are submitting a potential course for the code-to-learn showcase, please include the following information:
 
-- Issue Title: The name of the software
+- Issue Title: The name of the class & instructor
 - Issue Body:
-	- Who will be present at the Software Bazaar?
-	- A link to an code repository, including an open source license.
-	- Brief description of what the software does. What biological analyses does it perform?
-	Is it platform-specific? 
+	- Who will be present?
+	- What is the course? What kind of students do you have (e.g., upper-division undergraduate, Master's)
+	- Brief description of what code-to-learn activities are included. Feel free to link your course site, or to any materials you would like to be distributed to attendees.
 	
-If you intend to present software in the Software Bazaar, please file an issue containing
-this information by June 18.
+If you intend to present a course, please file an issue by June 18. After this date, you will recieve an email with presentation instructions.
 
-
-**If you are submitting a talk for the education lightning talks** during the afternoon session
-Wednesday June 26, please open an issue with the following information:
-
-- Issue Title: Name of Presenter
-- Issue Body: 
-	- What type of class are you teaching (i.e., Data science for biologists, Advanced programming
-	in R, Bioinformatics)? 
-	- What type of institution (i.e. PUI, R1, SLAC)? 
-	- What type of learners do you have (i.e., upper division undergrads, grads, freshmen)?
-	- How are you serving the course (i.e., R Studio server, local installs on participant computers)?
-	
-The above information may be used to group talks in the presentation order. A member of the iEvoBio
-organizing committee will be in touch about how to submit your talk. 
-
-All contributions are expected to follow the [Code of Conduct](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/Conduct.md).
