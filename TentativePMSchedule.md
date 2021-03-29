@@ -2,7 +2,7 @@
 
 Afternoon Session 1 - **From Panic to Pedagogy: Making the lessons of the past year last**
 
-In March of 2020, many educators found themselves in an emergency, needing to take courses (including labs) online. But in this upheaval was an opportunity to refocus on what is important in our classrooms, and to recenter student outcomes in our approaches to learning. In this session, we will discuss some tenants of active learning and inclusive pedagogy and relate them to teaching computation to biologists. Drs. Breanna Harris and April Wright will present some lessons learned from their classrooms, and from writing their recent manuscript "[From Panic to Pedagogy: Using online active learning to promote inclusive instruction in ecology and evolutionary biology courses.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6915)
+In March of 2020, many educators found themselves in an emergency, needing to take courses (including labs) online. But in this upheaval was an opportunity to refocus on what is important in our classrooms, and to recenter student outcomes in our approaches to learning. In this session, we will discuss some tenants of active learning and inclusive pedagogy and relate them to teaching computation to biologists. Drs. Breanna Harris and April Wright will present some lessons learned from their classrooms, and from writing their recent manuscript ["From Panic to Pedagogy: Using online active learning to promote inclusive instruction in ecology and evolutionary biology courses."](https://onlinelibrary.wiley.com/doi/10.1002/ece3.6915)
 
 
 ![](img/Panic.png)
