@@ -11,5 +11,9 @@ In March of 2020, many educators found themselves in an emergency, needing to ta
 
 **Afternoon Session 2 -  Coding to learn, not learning to code**
 
- In this session, we will discuss scaffolding computation into courses that aren't inherently computational themselves. For example, using R to process camera trap data in a mammalogy course, or using population genetic simulations in evolution. What are the major challenges to doing this? Is domain knowledge lost? **Interested parties are welcome to enter their course to be showcased during this session. A showcase will be a 5-minute discussion of what you're doing in your class to code-to-learn. If interested, please open an issue
-Afternoon mixer: Course-based breakouts. We'll form breakouts to discuss topics from the afternoon sessions.
+ In this session, we will discuss scaffolding computation into courses that aren't inherently computational themselves. For example, using R to process camera trap data in a mammalogy course, or using population genetic simulations in evolution. What are the major challenges to doing this? Is domain knowledge lost?
+
+  Interested parties are welcome to enter their course to be showcased during this session. A showcase will be a 5-minute discussion of what you're doing in your class to code-to-learn. If interested, please open an issue on our [GitHub page](https://github.com/ievobio/2021iEvoBio/issues).
+
+
+**Afternoon mixer:** Course-based breakouts. We'll form breakouts to discuss topics from the afternoon sessions.
