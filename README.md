@@ -21,4 +21,4 @@ All times GMT.
 5 PM GMT: Lunch break
 6 PM GMT: [Active learning and inclusive teaching discussion](https://ievobio.github.io/2021iEvoBio/TentativePMSchedule.html)
 7:30 PM GMT: Coding-to-learn, not learning to code panel discussion
-9:00 PM GMT: Code-to-learn breakout discussions
+9:00 PM GMT: Code-to-learn breakout discussions 
