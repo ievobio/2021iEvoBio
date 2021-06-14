@@ -12,6 +12,3 @@ Speakers:
 
 
 This will be followed by a mixer and discussion breakout
-
-Second morning session: "Mentoring diverse labs." What do PIs need to know when they'll be supervising both
-wet and dry lab personnel? How can they meet the challenges of supporting both career types and keeping different projects moving at different paces?
