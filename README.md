@@ -14,11 +14,16 @@ The afternoon session will be one inclusive pedagogy and code-to-learn in evolut
 
 ## Schedule 2021
 
-All times GMT.
+All times GMT. 
 
 2 PM GMT: [Welcome, and software panel](https://ievobio.github.io/2021iEvoBio/TentativeAMSchedule.html)
+
 4 PM GMT: Software discussion breakouts
+
 5 PM GMT: Lunch break
+
 6 PM GMT: [Active learning and inclusive teaching discussion](https://ievobio.github.io/2021iEvoBio/TentativePMSchedule.html)
+
 7:30 PM GMT: Coding-to-learn, not learning to code panel discussion
-9:00 PM GMT: Code-to-learn breakout discussions 
+
+9:00 PM GMT: Code-to-learn breakout discussions  
